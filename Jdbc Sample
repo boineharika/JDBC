@@ -10,7 +10,7 @@ import java.sql.*;
 public class DemoCLass 
 { 
 	public static void main(String[]args) throws Exception 
-	{
+	{      
 		String url = "jdbc:mysql://localhost:3306/studentinf";// studentinf is databsde name 
 		String uname = "root";
 		String pswd = "";
